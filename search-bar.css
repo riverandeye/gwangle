@@ -1,5 +1,5 @@
 .search-bar {
-  width: 55.2rem;
+  width: 58rem;
   height: 4.6rem;
 
   border: 1px solid #dfe1e5;
@@ -23,10 +23,18 @@
   padding: 0.8rem;
 }
 
+.key-board:hover {
+  cursor: pointer;
+}
+
 .microphone {
   width: 2.4rem;
   height: 2.4rem;
   padding: 0.8rem;
+}
+
+.microphone:hover {
+  cursor: pointer;
 }
 
 .search-input {
