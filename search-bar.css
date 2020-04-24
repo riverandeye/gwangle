@@ -1,0 +1,37 @@
+.search-bar {
+  width: 55.2rem;
+  height: 4.6rem;
+
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+
+  padding: 0rem 1rem 0rem 1.6rem;
+
+  display: flex;
+  align-items: center;
+}
+
+.search-glass {
+  width: 2rem;
+  height: 2rem;
+  fill: #9aa0a6;
+  padding-right: 1.3rem;
+}
+
+.key-board {
+  width: 2rem;
+  padding: 0.8rem;
+}
+
+.microphone {
+  width: 2.4rem;
+  height: 2.4rem;
+  padding: 0.8rem;
+}
+
+.search-input {
+  width: 44.7rem;
+  height: 3.4rem;
+  font-size: 1.6rem;
+  border: none;
+}
